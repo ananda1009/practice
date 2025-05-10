@@ -1,1 +1,1 @@
-# practice Tamplet demo
+# practice Tamplet demo product
